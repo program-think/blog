@@ -130,7 +130,7 @@
 <a href="http://feeds.feedburner.com/~ff/programthink?a=Tvmma_hqVZM:u1b111jyZ74:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/programthink?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=Tvmma_hqVZM:u1b111jyZ74:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/programthink?d=qj6IDK7rITs" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=Tvmma_hqVZM:u1b111jyZ74:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/programthink?d=7Q72WNTAKBA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=Tvmma_hqVZM:u1b111jyZ74:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/programthink?i=Tvmma_hqVZM:u1b111jyZ74:V_sGLiPBpWU" border="0"></a>
 </div><img src="http://feeds.feedburner.com/~r/programthink/~4/Tvmma_hqVZM" height="1" width="1" alt=""></p>
 <p>
-	<small> ============== 51天前</small>
+	<small> ============== 52天前</small>
 </p><h2>
 	<a href="http://feedproxy.google.com/~r/programthink/~3/E7z--27u7sY/My-GitHub.html" target="programthink-mirror">俺的 GitHub 开张——原 Google Code 的 wiki 页面已迁移至此</a>
 </h2>
