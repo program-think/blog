@@ -33,7 +33,7 @@
 <a href="http://feeds.feedburner.com/~ff/programthink?a=a6m_ATbVYiQ:yiR5AVFSMi0:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/programthink?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=a6m_ATbVYiQ:yiR5AVFSMi0:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/programthink?d=qj6IDK7rITs" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=a6m_ATbVYiQ:yiR5AVFSMi0:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/programthink?d=7Q72WNTAKBA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=a6m_ATbVYiQ:yiR5AVFSMi0:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/programthink?i=a6m_ATbVYiQ:yiR5AVFSMi0:V_sGLiPBpWU" border="0"></a>
 </div><img src="http://feeds.feedburner.com/~r/programthink/~4/a6m_ATbVYiQ" height="1" width="1" alt=""></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="http://feedproxy.google.com/~r/programthink/~3/hochcCAQhIY/gfw-news.html" target="programthink-mirror">2015年8月翻墙快报</a>
 </h2>
