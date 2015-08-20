@@ -33,7 +33,7 @@
 <a href="http://feeds.feedburner.com/~ff/programthink?a=21dSbtE1Ayk:_MEoeshlCSA:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/programthink?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=21dSbtE1Ayk:_MEoeshlCSA:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/programthink?d=qj6IDK7rITs" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=21dSbtE1Ayk:_MEoeshlCSA:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/programthink?d=7Q72WNTAKBA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=21dSbtE1Ayk:_MEoeshlCSA:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/programthink?i=21dSbtE1Ayk:_MEoeshlCSA:V_sGLiPBpWU" border="0"></a>
 </div><img src="http://feeds.feedburner.com/~r/programthink/~4/21dSbtE1Ayk" height="1" width="1" alt=""></p>
 <p>
-	<small> ============== 22分钟前</small>
+	<small> ============== 27分钟前</small>
 </p><h2>
 	<a href="http://feedproxy.google.com/~r/programthink/~3/a6m_ATbVYiQ/weekly-share-91.html" target="programthink-mirror">每周转载：天朝近期的宏观经济形势很不妙（国内外各方报道）</a>
 </h2>
@@ -130,7 +130,7 @@
 <a href="http://feeds.feedburner.com/~ff/programthink?a=EGqcavr5G2U:fdqVLiqe0Cc:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/programthink?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=EGqcavr5G2U:fdqVLiqe0Cc:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/programthink?d=qj6IDK7rITs" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=EGqcavr5G2U:fdqVLiqe0Cc:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/programthink?d=7Q72WNTAKBA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=EGqcavr5G2U:fdqVLiqe0Cc:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/programthink?i=EGqcavr5G2U:fdqVLiqe0Cc:V_sGLiPBpWU" border="0"></a>
 </div><img src="http://feeds.feedburner.com/~r/programthink/~4/EGqcavr5G2U" height="1" width="1" alt=""></p>
 <p>
-	<small> ============== 49天前</small>
+	<small> ============== 50天前</small>
 </p><h2>
 	<a href="http://feedproxy.google.com/~r/programthink/~3/zyGVGNARYlw/GitHub-C-Cpp-Open-Source-Libraries.html" target="programthink-mirror">GitHub 通告：整理了一个 C 和 C++ 开源库的清单（含示例代码）</a>
 </h2>
