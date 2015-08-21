@@ -143,7 +143,7 @@
 <a href="http://feeds.feedburner.com/~ff/programthink?a=zyGVGNARYlw:DTJT8izBiE4:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/programthink?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=zyGVGNARYlw:DTJT8izBiE4:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/programthink?d=qj6IDK7rITs" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=zyGVGNARYlw:DTJT8izBiE4:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/programthink?d=7Q72WNTAKBA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=zyGVGNARYlw:DTJT8izBiE4:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/programthink?i=zyGVGNARYlw:DTJT8izBiE4:V_sGLiPBpWU" border="0"></a>
 </div><img src="http://feeds.feedburner.com/~r/programthink/~4/zyGVGNARYlw" height="1" width="1" alt=""></p>
 <p>
-	<small> ============== 56天前</small>
+	<small> ============== 57天前</small>
 </p><h2>
 	<a href="http://feedproxy.google.com/~r/programthink/~3/nsVfeCNibvs/The-Mythical-Theories-of-Success.html" target="programthink-mirror">成功学批判——简述其危害性及各种谬误</a>
 </h2>
