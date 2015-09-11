@@ -33,7 +33,7 @@
 <a href="http://feeds.feedburner.com/~ff/programthink?a=t3SxkgjCaZY:L47q7MXP64s:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/programthink?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=t3SxkgjCaZY:L47q7MXP64s:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/programthink?d=qj6IDK7rITs" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=t3SxkgjCaZY:L47q7MXP64s:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/programthink?d=7Q72WNTAKBA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=t3SxkgjCaZY:L47q7MXP64s:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/programthink?i=t3SxkgjCaZY:L47q7MXP64s:V_sGLiPBpWU" border="0"></a>
 </div><img src="http://feeds.feedburner.com/~r/programthink/~4/t3SxkgjCaZY" height="1" width="1" alt=""></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="http://feedproxy.google.com/~r/programthink/~3/vOvckDbfIls/Technology-and-Freedom.html" target="programthink-mirror">“对抗专制、捍卫自由”的 N 种技术力量</a>
 </h2>
@@ -260,7 +260,7 @@
 <a href="http://feeds.feedburner.com/~ff/programthink?a=7gPILaOVJ4E:ZP9WG_Rq2Ak:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/programthink?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=7gPILaOVJ4E:ZP9WG_Rq2Ak:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/programthink?d=qj6IDK7rITs" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=7gPILaOVJ4E:ZP9WG_Rq2Ak:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/programthink?d=7Q72WNTAKBA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=7gPILaOVJ4E:ZP9WG_Rq2Ak:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/programthink?i=7gPILaOVJ4E:ZP9WG_Rq2Ak:V_sGLiPBpWU" border="0"></a>
 </div><img src="http://feeds.feedburner.com/~r/programthink/~4/7gPILaOVJ4E" height="1" width="1" alt=""></p>
 <p>
-	<small> ============== 109天前</small>
+	<small> ============== 110天前</small>
 </p><h2>
 	<a href="http://feedproxy.google.com/~r/programthink/~3/WJVE-DGAWu0/weekly-share-85.html" target="programthink-mirror">每周转载：大量网友围观庆安命案，并质疑CCAV视频（多图）</a>
 </h2>
