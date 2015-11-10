@@ -253,7 +253,7 @@
 <a href="http://feeds.feedburner.com/~ff/programthink?a=K7zWvVt9bH0:qc2DRxhl6Z8:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/programthink?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=K7zWvVt9bH0:qc2DRxhl6Z8:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/programthink?d=qj6IDK7rITs" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=K7zWvVt9bH0:qc2DRxhl6Z8:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/programthink?d=7Q72WNTAKBA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=K7zWvVt9bH0:qc2DRxhl6Z8:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/programthink?i=K7zWvVt9bH0:qc2DRxhl6Z8:V_sGLiPBpWU" border="0"></a>
 </div><img src="http://feeds.feedburner.com/~r/programthink/~4/K7zWvVt9bH0" height="1" width="1" alt=""></p>
 <p>
-	<small> ============== 120天前</small>
+	<small> ============== 121天前</small>
 </p><h2>
 	<a href="http://feedproxy.google.com/~r/programthink/~3/3crg6VgdjgM/China-Stock-Market-Reform-or-Lever.html" target="programthink-mirror">股市点评：一头伪装成“改革牛”的“杠杆牛”</a>
 </h2>
