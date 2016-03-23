@@ -16,7 +16,7 @@
     
             <tr>
         <td><a href="../../raw/master/x/FreeBrowser.apk"><img
-        src="../../raw/master/x/fb.qr.png" /></a></td>
+        src="https://raw.githubusercontent.com/greatfire/wiki/master/x/fb.qr.png" /></a></td>
 
         
             </tr>
