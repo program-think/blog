@@ -33,7 +33,7 @@
 <a href="http://feeds.feedburner.com/~ff/programthink?a=rrDQpg3qSFs:QjJclvziB_U:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/programthink?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=rrDQpg3qSFs:QjJclvziB_U:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/programthink?d=qj6IDK7rITs" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=rrDQpg3qSFs:QjJclvziB_U:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/programthink?d=7Q72WNTAKBA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=rrDQpg3qSFs:QjJclvziB_U:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/programthink?i=rrDQpg3qSFs:QjJclvziB_U:V_sGLiPBpWU" border="0"></a>
 </div><img src="http://feeds.feedburner.com/~r/programthink/~4/rrDQpg3qSFs" height="1" width="1" alt=""></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="http://feedproxy.google.com/~r/programthink/~3/u2XLp_dDWqo/AlphaGo.html" target="programthink-mirror">聊聊大伙儿（包括某些职业围棋手）对 AlphaGo 的误解</a>
 </h2>
@@ -46,7 +46,7 @@
 <a href="http://feeds.feedburner.com/~ff/programthink?a=u2XLp_dDWqo:LFO7ZKN5G7U:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/programthink?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=u2XLp_dDWqo:LFO7ZKN5G7U:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/programthink?d=qj6IDK7rITs" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=u2XLp_dDWqo:LFO7ZKN5G7U:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/programthink?d=7Q72WNTAKBA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=u2XLp_dDWqo:LFO7ZKN5G7U:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/programthink?i=u2XLp_dDWqo:LFO7ZKN5G7U:V_sGLiPBpWU" border="0"></a>
 </div><img src="http://feeds.feedburner.com/~r/programthink/~4/u2XLp_dDWqo" height="1" width="1" alt=""></p>
 <p>
-	<small> ============== 12天前</small>
+	<small> ============== 13天前</small>
 </p><h2>
 	<a href="http://feedproxy.google.com/~r/programthink/~3/u2XLp_dDWqo/AlphaGo.html" target="programthink-mirror">聊聊大伙儿（包括某些职业棋手）对 AlphaGo 的误解</a>
 </h2>
@@ -59,7 +59,7 @@
 <a href="http://feeds.feedburner.com/~ff/programthink?a=u2XLp_dDWqo:LFO7ZKN5G7U:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/programthink?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=u2XLp_dDWqo:LFO7ZKN5G7U:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/programthink?d=qj6IDK7rITs" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=u2XLp_dDWqo:LFO7ZKN5G7U:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/programthink?d=7Q72WNTAKBA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=u2XLp_dDWqo:LFO7ZKN5G7U:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/programthink?i=u2XLp_dDWqo:LFO7ZKN5G7U:V_sGLiPBpWU" border="0"></a>
 </div><img src="http://feeds.feedburner.com/~r/programthink/~4/u2XLp_dDWqo" height="1" width="1" alt=""></p>
 <p>
-	<small> ============== 12天前</small>
+	<small> ============== 13天前</small>
 </p><h2>
 	<a href="http://feedproxy.google.com/~r/programthink/~3/xRmR0MoUomQ/GitHub-Security-Tips.html" target="programthink-mirror">使用 GitHub 的几种方式——兼谈安全性和隐匿性的经验</a>
 </h2>
@@ -124,7 +124,7 @@
 <a href="http://feeds.feedburner.com/~ff/programthink?a=sVtVkAPeR8s:Ln8tTxrIzAA:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/programthink?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=sVtVkAPeR8s:Ln8tTxrIzAA:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/programthink?d=qj6IDK7rITs" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=sVtVkAPeR8s:Ln8tTxrIzAA:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/programthink?d=7Q72WNTAKBA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=sVtVkAPeR8s:Ln8tTxrIzAA:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/programthink?i=sVtVkAPeR8s:Ln8tTxrIzAA:V_sGLiPBpWU" border="0"></a>
 </div><img src="http://feeds.feedburner.com/~r/programthink/~4/sVtVkAPeR8s" height="1" width="1" alt=""></p>
 <p>
-	<small> ============== 39天前</small>
+	<small> ============== 40天前</small>
 </p><h2>
 	<a href="http://feedproxy.google.com/~r/programthink/~3/e7PdpHrG5hI/Taiwan-Political-Movements.html" target="programthink-mirror">台湾民主运动和独立运动简史</a>
 </h2>
@@ -246,7 +246,7 @@
 <a href="http://feeds.feedburner.com/~ff/programthink?a=t9cHfStoSCU:UgnyhiALDqM:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/programthink?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=t9cHfStoSCU:UgnyhiALDqM:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/programthink?d=qj6IDK7rITs" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=t9cHfStoSCU:UgnyhiALDqM:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/programthink?d=7Q72WNTAKBA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=t9cHfStoSCU:UgnyhiALDqM:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/programthink?i=t9cHfStoSCU:UgnyhiALDqM:V_sGLiPBpWU" border="0"></a>
 </div><img src="http://feeds.feedburner.com/~r/programthink/~4/t9cHfStoSCU" height="1" width="1" alt=""></p>
 <p>
-	<small> ============== 115天前</small>
+	<small> ============== 116天前</small>
 </p><h2>
 	<a href="http://feedproxy.google.com/~r/programthink/~3/LIGoNg2WTXA/Why-Islam-Is-Different-from-Other-Religions.html" target="programthink-mirror">伊斯兰教为何如此奇葩？——巴黎连环恐怖袭击随想</a>
 </h2>
