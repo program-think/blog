@@ -246,7 +246,7 @@
 <a href="http://feeds.feedburner.com/~ff/programthink?a=dK8n2h7V2vA:jVo0hE3AkhA:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/programthink?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=dK8n2h7V2vA:jVo0hE3AkhA:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/programthink?d=qj6IDK7rITs" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=dK8n2h7V2vA:jVo0hE3AkhA:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/programthink?d=7Q72WNTAKBA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=dK8n2h7V2vA:jVo0hE3AkhA:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/programthink?i=dK8n2h7V2vA:jVo0hE3AkhA:V_sGLiPBpWU" border="0"></a>
 </div><img src="http://feeds.feedburner.com/~r/programthink/~4/dK8n2h7V2vA" height="1" width="1" alt=""></p>
 <p>
-	<small> ============== 117天前</small>
+	<small> ============== 118天前</small>
 </p><h2>
 	<a href="http://feedproxy.google.com/~r/programthink/~3/t9cHfStoSCU/weekly-share-94.html" target="programthink-mirror">每周转载：关于土耳其击落俄罗斯战机（相关照片及网友评论）</a>
 </h2>
