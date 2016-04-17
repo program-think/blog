@@ -33,7 +33,7 @@
 <a href="http://feeds.feedburner.com/~ff/programthink?a=41SMxPsQ5Wg:uX4AUdWjvWs:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/programthink?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=41SMxPsQ5Wg:uX4AUdWjvWs:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/programthink?d=qj6IDK7rITs" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=41SMxPsQ5Wg:uX4AUdWjvWs:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/programthink?d=7Q72WNTAKBA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=41SMxPsQ5Wg:uX4AUdWjvWs:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/programthink?i=41SMxPsQ5Wg:uX4AUdWjvWs:V_sGLiPBpWU" border="0"></a>
 </div><img src="http://feeds.feedburner.com/~r/programthink/~4/41SMxPsQ5Wg" height="1" width="1" alt=""></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="http://feedproxy.google.com/~r/programthink/~3/a0gAJlmeS3g/Li-Xiaolin.html" target="programthink-mirror">中国电婊李小琳的精彩人生（多图）</a>
 </h2>
