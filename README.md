@@ -33,7 +33,7 @@
 <a href="http://feeds.feedburner.com/~ff/programthink?a=lyLSIkQnnrc:iGiMTxOsGCo:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/programthink?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=lyLSIkQnnrc:iGiMTxOsGCo:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/programthink?d=qj6IDK7rITs" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=lyLSIkQnnrc:iGiMTxOsGCo:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/programthink?d=7Q72WNTAKBA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=lyLSIkQnnrc:iGiMTxOsGCo:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/programthink?i=lyLSIkQnnrc:iGiMTxOsGCo:V_sGLiPBpWU" border="0"></a>
 </div><img src="http://feeds.feedburner.com/~r/programthink/~4/lyLSIkQnnrc" height="1" width="1" alt=""></p>
 <p>
-	<small> ============== 3天前</small>
+	<small> ============== 4天前</small>
 </p><h2>
 	<a href="http://feedproxy.google.com/~r/programthink/~3/drmgGUT99k4/Andy-Grove-Quotes-on-Leadership.html" target="programthink-mirror">硅谷 CEO 们的教父——分享安迪·格鲁夫的管理经验</a>
 </h2>
@@ -46,7 +46,7 @@
 <a href="http://feeds.feedburner.com/~ff/programthink?a=drmgGUT99k4:FgidxXmjnok:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/programthink?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=drmgGUT99k4:FgidxXmjnok:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/programthink?d=qj6IDK7rITs" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=drmgGUT99k4:FgidxXmjnok:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/programthink?d=7Q72WNTAKBA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=drmgGUT99k4:FgidxXmjnok:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/programthink?i=drmgGUT99k4:FgidxXmjnok:V_sGLiPBpWU" border="0"></a>
 </div><img src="http://feeds.feedburner.com/~r/programthink/~4/drmgGUT99k4" height="1" width="1" alt=""></p>
 <p>
-	<small> ============== 17天前</small>
+	<small> ============== 18天前</small>
 </p><h2>
 	<a href="http://feedproxy.google.com/~r/programthink/~3/41SMxPsQ5Wg/weekly-share-100.html" target="programthink-mirror">每周转载：巴拿马文件曝光天朝权贵（大量网友评论）</a>
 </h2>
@@ -111,7 +111,7 @@
 <a href="http://feeds.feedburner.com/~ff/programthink?a=u2XLp_dDWqo:LFO7ZKN5G7U:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/programthink?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=u2XLp_dDWqo:LFO7ZKN5G7U:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/programthink?d=qj6IDK7rITs" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=u2XLp_dDWqo:LFO7ZKN5G7U:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/programthink?d=7Q72WNTAKBA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=u2XLp_dDWqo:LFO7ZKN5G7U:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/programthink?i=u2XLp_dDWqo:LFO7ZKN5G7U:V_sGLiPBpWU" border="0"></a>
 </div><img src="http://feeds.feedburner.com/~r/programthink/~4/u2XLp_dDWqo" height="1" width="1" alt=""></p>
 <p>
-	<small> ============== 62天前</small>
+	<small> ============== 63天前</small>
 </p><h2>
 	<a href="http://feedproxy.google.com/~r/programthink/~3/u2XLp_dDWqo/AlphaGo.html" target="programthink-mirror">聊聊大伙儿（包括某些职业棋手）对 AlphaGo 的误解</a>
 </h2>
@@ -124,7 +124,7 @@
 <a href="http://feeds.feedburner.com/~ff/programthink?a=u2XLp_dDWqo:LFO7ZKN5G7U:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/programthink?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=u2XLp_dDWqo:LFO7ZKN5G7U:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/programthink?d=qj6IDK7rITs" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=u2XLp_dDWqo:LFO7ZKN5G7U:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/programthink?d=7Q72WNTAKBA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=u2XLp_dDWqo:LFO7ZKN5G7U:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/programthink?i=u2XLp_dDWqo:LFO7ZKN5G7U:V_sGLiPBpWU" border="0"></a>
 </div><img src="http://feeds.feedburner.com/~r/programthink/~4/u2XLp_dDWqo" height="1" width="1" alt=""></p>
 <p>
-	<small> ============== 62天前</small>
+	<small> ============== 63天前</small>
 </p><h2>
 	<a href="http://feedproxy.google.com/~r/programthink/~3/xRmR0MoUomQ/GitHub-Security-Tips.html" target="programthink-mirror">使用 GitHub 的几种方式——兼谈安全性和隐匿性的经验</a>
 </h2>
