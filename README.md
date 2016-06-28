@@ -46,7 +46,7 @@
 <a href="http://feeds.feedburner.com/~ff/programthink?a=eTs6wicc6T8:SoMo-SCgIn0:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/programthink?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=eTs6wicc6T8:SoMo-SCgIn0:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/programthink?d=qj6IDK7rITs" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=eTs6wicc6T8:SoMo-SCgIn0:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/programthink?d=7Q72WNTAKBA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=eTs6wicc6T8:SoMo-SCgIn0:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/programthink?i=eTs6wicc6T8:SoMo-SCgIn0:V_sGLiPBpWU" border="0"></a>
 </div><img src="http://feeds.feedburner.com/~r/programthink/~4/eTs6wicc6T8" height="1" width="1" alt=""></p>
 <p>
-	<small> ============== 22天前</small>
+	<small> ============== 23天前</small>
 </p><h2>
 	<a href="http://feedproxy.google.com/~r/programthink/~3/dE0AVGkocZ0/weekly-share-102.html" target="programthink-mirror">关于“雷洋事件”的相关报道和网友评论</a>
 </h2>
