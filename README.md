@@ -33,7 +33,7 @@
 <a href="http://feeds.feedburner.com/~ff/programthink?a=-EmAkH3jRnY:BSsyqRTNAaQ:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/programthink?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=-EmAkH3jRnY:BSsyqRTNAaQ:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/programthink?d=qj6IDK7rITs" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=-EmAkH3jRnY:BSsyqRTNAaQ:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/programthink?d=7Q72WNTAKBA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=-EmAkH3jRnY:BSsyqRTNAaQ:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/programthink?i=-EmAkH3jRnY:BSsyqRTNAaQ:V_sGLiPBpWU" border="0"></a>
 </div><img src="http://feeds.feedburner.com/~r/programthink/~4/-EmAkH3jRnY" height="1" width="1" alt=""></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="http://feedproxy.google.com/~r/programthink/~3/UYp4O3ynO9Q/USA-Separation-of-Powers-with-Balances.html" target="programthink-mirror">聊聊美国政体中的权力制衡——不仅仅是三权分立</a>
 </h2>
@@ -246,7 +246,7 @@
 <a href="http://feeds.feedburner.com/~ff/programthink?a=sVtVkAPeR8s:Ln8tTxrIzAA:yIl2AUoC8zA"><img src="http://feeds.feedburner.com/~ff/programthink?d=yIl2AUoC8zA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=sVtVkAPeR8s:Ln8tTxrIzAA:qj6IDK7rITs"><img src="http://feeds.feedburner.com/~ff/programthink?d=qj6IDK7rITs" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=sVtVkAPeR8s:Ln8tTxrIzAA:7Q72WNTAKBA"><img src="http://feeds.feedburner.com/~ff/programthink?d=7Q72WNTAKBA" border="0"></a> <a href="http://feeds.feedburner.com/~ff/programthink?a=sVtVkAPeR8s:Ln8tTxrIzAA:V_sGLiPBpWU"><img src="http://feeds.feedburner.com/~ff/programthink?i=sVtVkAPeR8s:Ln8tTxrIzAA:V_sGLiPBpWU" border="0"></a>
 </div><img src="http://feeds.feedburner.com/~r/programthink/~4/sVtVkAPeR8s" height="1" width="1" alt=""></p>
 <p>
-	<small> ============== 138天前</small>
+	<small> ============== 139天前</small>
 </p><h2>
 	<a href="http://feedproxy.google.com/~r/programthink/~3/e7PdpHrG5hI/Taiwan-Political-Movements.html" target="programthink-mirror">台湾民主运动和独立运动简史</a>
 </h2>
